@@ -9,23 +9,21 @@
 - :camera_flash: More about me:  <a href="https://www.instagram.com/gu.persi/">@gu.persi</a> 
 - :earth_americas: I am a english, spanish and portuguese speaker 
 - :volleyball: Fun fact: I :hearts: playing Volleyball 
-
-<div>
-  <a href="https://github.com/gpersijn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gpersijn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpersijn&layout=compact&langs_count=7&theme=dark"/>
-  &emsp;&emsp;<img id="img-pc2" width="140em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
-</div> 
  
 <br>
-  
-<div align=”center” style="text-align: center;"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<div>
+  <a href="https://github.com/gpersijn">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gpersijn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpersijn&layout=compact&langs_count=7&theme=dark"/>
+  &emsp;&emsp;<img id="img-pc2" width="120em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
+</div> 
   
 ![Snake animation](https://github.com/gpersijn/gpersijn/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center"> 
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
