@@ -3,7 +3,7 @@
 
 - :books:	I’m currently studying at University of Brasilia   
 - :computer: My course is Software Engineering 
-- 🌱 I’m currently learning React and Angular                                          
+- :zap: I’m currently learning React and Angular                                          
 - 💬 Ask me about Discrete Mathematics and Agile Methodologies 
 - 📫 How to reach me: gpersijn@outlook.com                             
 - :camera_flash: More about me:  <a href="https://www.instagram.com/gu.persi/">@gu.persi</a> 
