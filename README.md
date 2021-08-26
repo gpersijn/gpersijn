@@ -15,7 +15,7 @@
   <a href="https://github.com/gpersijn">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gpersijn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpersijn&layout=compact&langs_count=7&theme=dark"/>
-  &emsp;&emsp;<img id="img-pc2" width="120em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
+  &emsp;&emsp;<img id="img-pc2" width="100em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
 </div> 
   
 ![Snake animation](https://github.com/gpersijn/gpersijn/blob/output/github-contribution-grid-snake.svg)
