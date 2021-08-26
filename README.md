@@ -11,8 +11,8 @@
 <br>
 <div>
   <a href="https://github.com/gpersijn">
-  <img height="180em" display= inline-block src="https://github-readme-stats.vercel.app/api?username=gpersijn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpersijn&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gpersijn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpersijn&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <br>
