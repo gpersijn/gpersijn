@@ -15,7 +15,7 @@
   <a href="https://github.com/gpersijn">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gpersijn&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="145em" display=inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpersijn&layout=compact&langs_count=7&theme=dark"/>
-  <img id="img-pc2" height="140" width="95em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
+  <img id="img-pc2" height="140" width="93em" src="https://media.giphy.com/media/jpbqqToAod3Ex7fbkn/giphy.gif?cid=ecf05e47dvbbnjq5gwotygasxyek4jseia0jzd87k2kln1x5&rid=giphy.gif&ct=s" alt="">
 </div> 
  
 <br>
