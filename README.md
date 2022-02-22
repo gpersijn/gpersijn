@@ -3,8 +3,9 @@
 
 - :books:	I’m currently studying at University of Brasilia   
 - :computer: My course is Software Engineering 
-- :zap: I’m currently learning React and Angular                                          
-- 💬 Ask me about Discrete Mathematics and Agile Methodologies 
+- 🧑🏻‍💻: I'm doing internship at CI&T Software
+- :zap: I’m currently learning Java and Angular                                          
+- 💬 Ask me about Discrete Mathematics 
 - 📫 How to reach me: gpersijn@outlook.com                             
 - :camera_flash: More about me:  <a href="https://www.instagram.com/gu.persi/">@gu.persi</a> 
 - :earth_americas: I am a english, spanish and portuguese speaker 
@@ -29,4 +30,5 @@
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </p>
