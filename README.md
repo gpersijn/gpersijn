@@ -21,7 +21,7 @@
  
 <br>
  
-![Snake animation](https://github.com/gpersijn/gpersijn/blob/output/github-contribution-grid-snake.svg)
+![gitartwork](gitartwork.svg)
 
 <p align="center"> 
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
