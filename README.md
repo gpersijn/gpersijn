@@ -1,3 +1,5 @@
+
+
 ### Heeey, I am Gustave Persijn! 👋
 ###
 
@@ -20,10 +22,17 @@
 </div> 
  
 <br>
- 
-![gitartwork](gitartwork.svg)
 
-<p align="center"> 
+ <p> 
+  <h3> Connect-me: </h3>
+  <a href="https://www.instagram.com/gu.persi/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="30" height="40" /> </a>
+  <a href="mailto:gpersijn@outlook.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="30"  height="40"  /> </a>
+  <a href="https://www.linkedin.com/in/gustave-persijn-21606a1b3/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" height="40"/> </a>
+</p>
+
+<div>
+<p> 
+  <h3> Languages and Tools: </h3>
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,3 +41,10 @@
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </p>
+</iv>
+
+<br>
+
+<br>
+
+  ![gitartwork](gitartwork.svg)
